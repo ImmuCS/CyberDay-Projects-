@@ -1,1 +1,1 @@
-# CyberDay-Projects-
+# CyberDay Day 1 Projects
